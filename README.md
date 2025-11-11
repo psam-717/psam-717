@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Marvin Phil Annorbah
+# 👋 Hey there, I'm Marvinphil Annorbah
 
 🚀 **Backend Engineer | AI/ML Engineer | Mobile App Developer**
 

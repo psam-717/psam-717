@@ -28,7 +28,7 @@ From designing RESTful APIs to integrating machine learning models, I love conne
 ## 🚀 Featured Projects
 
 ### 🏫 [MyEasySchool](https://myeasyschool.org/)
-**A startup learning platform for university students** — enabling access to university-specific learning materials, scheduling weekly study sessions, and maintaining motivation through streaks and XP.  
+**A learning platform for university students** — enabling access to university-specific learning materials, scheduling weekly study sessions, and maintaining motivation through streaks and XP.  
 The platform supports **students**, **collaborators** (who upload content), and **admins**, creating a dynamic academic ecosystem.
 
 > 🧩 **Role:** Backend Engineer  

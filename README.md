@@ -7,10 +7,15 @@ Building scalable APIs, AI-driven solutions, and intuitive mobile apps.
 
 ### 🧠 Tech Stack
 **Languages:** Python | JavaScript | TypeScript
+
 **Backend:** FastAPI | Express.js | Node.js
+
 **AI/ML:** PyTorch | LangChain | Hugging Face
-**Mobile:** React Native | Flutter
+
+**Mobile:** Flutter
+
 **Databases:** MongoDB | PostgreSQL
+
 **Tools:** Docker | Git | Postman
 
 ---
